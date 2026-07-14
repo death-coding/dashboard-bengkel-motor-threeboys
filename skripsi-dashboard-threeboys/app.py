@@ -13,7 +13,7 @@ col_logo, col_judul = st.columns([1, 8])
 
 with col_logo:
     try:
-        st.image("assets/logo-bengkel.jpg", use_container_width=True)
+        st.image("skripsi-dashboard-threeboys/assets/logo-bengkel.jpg", use_container_width=True)
     except Exception:
         pass 
 
