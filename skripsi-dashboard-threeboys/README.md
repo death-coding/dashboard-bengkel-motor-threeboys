@@ -1,7 +1,7 @@
 # 🛒 Sistem Pendukung Keputusan: Rekomendasi Bundling Produk
-**Studi Kasus:** Bengkel Motor Threeboys
+**Studi Kasus:** Bengkel Motor Three Boys
 
-Aplikasi web berbasis dasbor interaktif ini dibangun untuk membantu manajemen Bengkel Motor Threeboys dalam menemukan pola pembelian pelanggan (Market Basket Analysis) menggunakan **Algoritma Apriori**.
+Aplikasi web berbasis dasbor interaktif ini dibangun untuk membantu manajemen Bengkel Motor Three Boys dalam menemukan pola pembelian pelanggan (Market Basket Analysis) menggunakan **Algoritma Apriori**.
 
 ## 🚀 Fitur Utama
 - **Upload Fleksibel:** Mendukung upload data transaksi barang dan jasa perbaikan secara bersamaan.
