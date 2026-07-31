@@ -18,7 +18,7 @@ with col_logo:
         pass 
 
 with col_judul:
-    st.title("Dasbor Rekomendasi Bundling Bengkel Motor Threeboys")
+    st.title("Dasbor Rekomendasi Bundling Bengkel Motor Three Boys")
     st.write("Unggah laporan transaksi kasir (Ekspor CSV 3-6 bulan terakhir dari database). Sistem akan otomatis mencari paket barang & jasa yang sering dibeli bersamaan.")
 
 st.markdown("---")
